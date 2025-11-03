@@ -8,4 +8,5 @@ Video Link
 
 [Open G.D Code from scratch  Notebook in Colab](https://colab.research.google.com/github/Harshkumar-2024/100-days-of-machine-learning/blob/main/day51-gradient-descent/gradient-descent-code-from-scratch.ipynb)
 
+[Open G.D -3D Code from scratch  Notebook in Colab](https://colab.research.google.com/github/Harshkumar-2024/100-days-of-machine-learning/blob/main/day51-gradient-descent/gradient-descent-3d.ipynb)
 
